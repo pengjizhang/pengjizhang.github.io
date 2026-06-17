@@ -7,3 +7,4 @@ title: 系统思维笔记
 ## 文章
 
 - [火鸡问题：归纳法、安全感与结构性风险](fire-turkey)
+- [火鸡问题如何破解：从被喂养到系统设计者](fire-turkey-solution)
