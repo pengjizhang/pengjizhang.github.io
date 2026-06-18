@@ -14,4 +14,3 @@ title: 系统思维笔记
 - [火鸡问题如何破解：从被喂养到系统设计者](fire-turkey-solution)
 - [一张图看懂火鸡问题](fire-turkey-visual)
 - [视角是什么：一张自我加固的失真地图](what-is-perspective)
-- [OTN 告警系统详解：从分层监控到故障定位](otn-alarm-system)
