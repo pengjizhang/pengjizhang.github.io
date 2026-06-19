@@ -8,8 +8,7 @@ title: "一张图看懂火鸡问题"
 
 ## 图一：火鸡的认知 vs 真实世界
 
-<pre class="mermaid">
-
+```mermaid
 graph TB
     subgraph 火鸡看到的世界
     A[每天有食物] --> B[归纳: 明天也有]
@@ -25,8 +24,7 @@ graph TB
 
     style C fill:#4caf50,color:#fff
     style E fill:#d32f2f,color:#fff
-
-</pre>
+```
 
 火鸡的模型是自洽的——364 天全部验证。但它不知道系统里有一个变量叫"感恩节"。
 
@@ -34,8 +32,7 @@ graph TB
 
 ## 图二：火鸡触发的五个认知偏误
 
-<pre class="mermaid">
-
+```mermaid
 graph TD
     A[🔥 致命结论: 我很安全] --> B[简单联想: 农夫=食物]
     A --> C[避免不一致: 说了364天不能改口]
@@ -44,15 +41,13 @@ graph TD
     A --> F[确认偏误: 只记录投喂, 忽略同类消失]
 
     style A fill:#e65100,color:#fff
-
-</pre>
+```
 
 这五个偏误，火鸡全犯了。人类也全犯。
 
 ## 图三：从火鸡到系统设计者
 
-<pre class="mermaid">
-
+```mermaid
 graph LR
     A[🔥 火鸡] -->|认清系统| B[👀 观察者]
     B -->|理解规则| C[🌾 农夫]
@@ -60,8 +55,7 @@ graph LR
 
     style A fill:#d32f2f,color:#fff
     style D fill:#2e7d32,color:#fff
-
-</pre>
+```
 
 三步进化：
 
