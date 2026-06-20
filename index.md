@@ -10,4 +10,5 @@ title: 系统思维笔记
 - [火鸡问题2：归纳法为什么在结构性风险面前失效](fire-turkey)
 - [火鸡问题3：如何从被喂养者变成系统设计者](fire-turkey-solution)
 - [火鸡问题4：三张图看清从陷阱到破局](fire-turkey-visual)
+- [坦诚遇上人情世故：两种框架拆出来的同一个答案](honesty-and-social-graces)
 - [视角的真相：为什么我们看到的从来不是真实世界](what-is-perspective)
