@@ -12,3 +12,4 @@ title: 系统思维笔记
 - [火鸡问题4：三张图看清从陷阱到破局](fire-turkey-visual)
 - [坦诚遇上人情世故：两种框架拆出来的同一个答案](honesty-and-social-graces)
 - [视角的真相：为什么我们看到的从来不是真实世界](what-is-perspective)
+- [万物皆压缩：用第一性原理拆开智能、知识、创新和社会的底牌](everything-is-compression)
