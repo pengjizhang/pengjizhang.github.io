@@ -13,3 +13,4 @@ title: 系统思维笔记
 - [坦诚遇上人情世故：两种框架拆出来的同一个答案](honesty-and-social-graces)
 - [视角的真相：为什么我们看到的从来不是真实世界](what-is-perspective)
 - [压缩：人类理解世界的底层机制](compression-foundation)
+- [创新的本质：为什么最难的不是找到答案，而是换一个问题](innovation-essence)
