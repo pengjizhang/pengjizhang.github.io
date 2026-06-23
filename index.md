@@ -4,6 +4,7 @@ title: 系统思维笔记
 
 ## 文章
 
+- [统一心理学：六个方程解释人的全部心理](psychology-unified-model)
 - [理财白痴的系统重建：一个不需要判断力的财务方案](money-system-first-principles)
 - [穷孩子的金钱观：为什么钱从来没变成正常工具](money-mindset-poor-kids)
 - [火鸡问题1：从思维实验到行动指南](fire-turkey-guide)
