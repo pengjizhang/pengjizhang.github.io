@@ -2,7 +2,7 @@
 title: 系统思维笔记
 ---
 
-## PRFT 预测—调节统一模型
+## 心理学统一模型
 
 - [统一心理学：六个方程解释人的全部心理](psychology-unified-model) ✅
 - [PRFT 拆解火鸡问题：为什么最精确的模型最脆弱](turkey-problem-prft) ✅
