@@ -7,7 +7,7 @@ title: 系统思维笔记
 - [统一心理学：六个方程解释人的全部心理](psychology-unified-model) ✅
 - [PRFT 拆解火鸡问题：为什么最精确的模型最脆弱](turkey-problem-prft) ✅
 - [PRFT 拆解演讲恐惧：为什么你的身体背叛了你](stage-fright-prft) ✅
-- PRFT 拆解焦虑：为什么你总是在担心没发生的事 🔜
+- [PRFT 拆解焦虑：为什么你总是在担心没发生的事](anxiety-prft) ✅
 - PRFT 拆解拖延：你不是懒，你是在保护自己 🔜
 - PRFT 拆解亲密关系：两个调节系统的战争 🔜
 - PRFT 拆解成瘾：当快速调节绑架了整个系统 🔜
