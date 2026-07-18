@@ -24,21 +24,13 @@ title: 系统思维笔记
 
 *用多元思维模型拆解归纳法陷阱——从识别系统裂缝到建立共生回路*
 
-**基础篇**
-
-- [火鸡问题1：从思维实验到行动指南](fire-turkey-guide) — 系列总纲与推荐阅读顺序
-- [火鸡问题2：归纳法为什么在结构性风险面前失效](fire-turkey) — 诊断工具箱：六个工具完整拆解
-- [火鸡问题3：三层进化——防御、进攻、共生](fire-turkey-solution) — 解法层：从被喂养者到系统设计者
-- [火鸡问题4：全系列图解总览](fire-turkey-visual) — 九篇文章的核心图表一张页
-
-**场景篇**
-
+- [火鸡问题1：从思维实验到行动指南](fire-turkey-guide)
+- [火鸡问题2：归纳法为什么在结构性风险面前失效](fire-turkey)
+- [火鸡问题3：三层进化——防御、进攻、共生](fire-turkey-solution)
+- [火鸡问题4：全系列图解总览](fire-turkey-visual)
 - [火鸡问题5：投资场景——你"永远涨"的信仰背后站着谁](fire-turkey-investment)
 - [火鸡问题6：职业场景——你的工龄是护城河还是棺材钉](fire-turkey-career)
 - [火鸡问题7：商业场景——六层农场地图，找到所有隐藏的感恩节](fire-turkey-business)
-
-**深度篇**
-
 - [火鸡问题8：共生回路终极解法——让杀你变成亏本生意](fire-turkey-symbiosis)
 - [火鸡问题9：通信程序员——一只看见裂缝的火鸡自救全记录](fire-turkey-telecom-programmer)
 
