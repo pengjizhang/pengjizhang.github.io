@@ -33,6 +33,7 @@ title: 系统思维笔记
 - [火鸡问题7：商业场景——六层农场地图，找到所有隐藏的感恩节](fire-turkey-business)
 - [火鸡问题8：共生回路终极解法——让杀你变成亏本生意](fire-turkey-symbiosis)
 - [火鸡问题9：通信程序员——一只看见裂缝的火鸡自救全记录](fire-turkey-telecom-programmer)
+- [火鸡问题特辑：芒格二十五种误判倾向——火鸡全犯了哪些？](fire-turkey-25-biases)
 
 ---
 
