@@ -34,6 +34,7 @@ title: 系统思维笔记
 - [火鸡问题8：共生回路终极解法——让杀你变成亏本生意](fire-turkey-symbiosis)
 - [火鸡问题9：通信程序员——一只看见裂缝的火鸡自救全记录](fire-turkey-telecom-programmer)
 - [火鸡问题特辑：芒格二十五种误判倾向——火鸡全犯了哪些？](fire-turkey-25-biases)
+- [火鸡问题10：打工、存钱、买房，穷爸爸教你的每一件事都在养肥农夫](fire-turkey-poor-dad)
 
 ---
 
